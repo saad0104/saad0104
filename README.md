@@ -1,4 +1,5 @@
 # Hello, I'm Saad! 👋
+Studying CSE at University of Chittagong.
 
 I'm a student of Computer Science and Engineering with a deep passion for programming and a love for football. While I'm still in the early stages of my journey, I'm eager to learn and grow in the world of technology.
 
