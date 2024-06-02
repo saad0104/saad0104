@@ -1,6 +1,6 @@
 <h1 align="center">< I'm Saad > </h1>
 <p align="center">
-<h2 align="center">Studying CSE at University of Chittagong 👨‍💻</h2>
+<h2 align="center">Studying CSE at University of Chittagong</h2>
 <h3 align="center">  Paving the path of Programming with passion </h3>
 
 <p align="center">
