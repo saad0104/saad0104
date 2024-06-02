@@ -1,4 +1,4 @@
-<h1 align="center"><img width="40" src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif?cid=790b761141ydc3jk63gd0lm1taytbcpik3j3npdq9kaebbwu&ep=v1_stickers_search&rid=giphy.gif&ct=s">  I'm Saad</h1>
+<h1 align="center"><img width="40"I'm Saad</h1>
 <p align="center">
 <h2 align="center">Studying CSE at University of Chittagong 👨‍💻</h2>
 <h3 align="center">A Passionate Tech Addict from 🇧🇩</h3>
