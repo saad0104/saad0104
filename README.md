@@ -22,9 +22,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/saad-al-mahmud-876310299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-al-mahmud-876310299" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100017951088285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100017951088285" height="30" width="40" /></a>
-
 <a href="https://www.codechef.com/users/saadcu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saadcu" height="30" width="40" /></a>
-
 <a href="https://codeforces.com/profile/Saad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Saad01" height="30" width="40" /></a>
 
 </p>
