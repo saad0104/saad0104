@@ -1,7 +1,7 @@
 <h1 align="center">< I'm Saad > </h1>
 <p align="center">
 <h2 align="center">Studying CSE at University of Chittagong 👨‍💻</h2>
-<h3 align="center">A Passionate Tech Addict from 🇧🇩</h3>
+<h3 align="center">  Paving the path of Programming with passion </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=saad0104&color=brightgreen" alt="watching_count" />
