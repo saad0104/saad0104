@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **C,C++,Java,Git,GitHub**
+- 💬 Ask me about **C,C++,Java,Git,GitHub,Python**
 
 - ⚡ Fun fact **I Love Coding & Football more than anything else!**
 
