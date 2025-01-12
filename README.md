@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **C,C++,Java,Git,GitHub,Python**
 
