@@ -47,7 +47,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saad0104&theme=buefy)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saad0104&theme=whatsapp-light2&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?username=saad0104&theme=whatsapp-light2&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saad0104)](https://github.com/ryo-ma/github-profile-trophy)
