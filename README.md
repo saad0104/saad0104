@@ -48,3 +48,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saad0104&theme=whatsapp-light2&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/saad0104=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
